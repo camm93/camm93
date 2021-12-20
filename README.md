@@ -1,10 +1,9 @@
 ### Hi there 👋, Cristian Murillo
-#### Development
-![Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Development and Data Science
 
 I am Cristian from Colombia. I enjoy learning programming languages and frameworks for web development like Python and DRF, as well as doing some data analytics and machine learning.
 
-Skills: PYTHON / JAVA / VUE JS / HTML / CSS
+Skills: PYTHON / JAVA / VUE.JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
