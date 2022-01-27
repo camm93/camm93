@@ -1,5 +1,5 @@
 ### Hi there 👋, Cristian Murillo
-#### 💻 Web Development and Data Science
+#### 💻 Software Development and Data Science
 
 I am Cristian from Colombia. I enjoy learning programming languages and frameworks for web development like Python and DRF, as well as doing some data analytics and machine learning.
 
