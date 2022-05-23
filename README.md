@@ -14,8 +14,6 @@ More projects coming out!!
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camm93)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Connect with me:
 <a href="https://github.com/camm93" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>&emsp;</img> </a> <a href="https://www.linkedin.com/in/cristianmurillom" target="_blank" ><img src='https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667' alt='linkedin' height='40'>&emsp;</img> </a> <a href="https://camm93.github.io/" target="_blank" ><img src='https://github.com/camm93/camm93/blob/main/portfolio_78923.ico' alt='portfolio' height='40'>&emsp;</img> </a> <a href="https://www.youtube.com/channel/UCgQJ4duEYOMP1Vba7krqVFA" target="_blank" ><img src='https://github.com/camm93/camm93/blob/main/YOUTUBE.ico' alt='youtube' height='40'>&emsp;</img> </a>
 
