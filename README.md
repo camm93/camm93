@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Cristian Murillo aka camm93
 #### 💻 Data Science and Software Development 👨🏽‍💻📈📊
 
-I am Cristian from Colombia. I enjoy learning programming languages and frameworks for web development like Python and DRF, as well as doing some data analytics and machine learning.
+I am Cristian from Colombia. I enjoy learning programming languages and frameworks for web development, as well as doing data analytics and machine learning.
 
 🤓 Always learning new things.
 
