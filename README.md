@@ -1,4 +1,4 @@
-### Hi there 👋, I am Cristian Murillo aka camm93
+### Hi there 👋, I am Cristian Murillo
 #### 💻 Data Science and Software Development 👨🏽‍💻📈📊
 
 I am Cristian from Colombia. I enjoy learning programming languages and frameworks for web development, as well as doing data analytics and machine learning.
